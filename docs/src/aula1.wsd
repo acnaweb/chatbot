@@ -2,11 +2,14 @@
 
 *[#F8F8FF] Aula 1
 
-**[#LightGray] Chatbot (IA conversacional)
+**[#LightGray] Arquitetura/Chat
 
-***_ Formulario como Chatbot
-
+***_ Com IA
+***_ Fluxo condicional
 ****_ https://fobi.io/
+****_ https://www.wati.io/
+
+**[#LightGray] Chatbot (IA conversacional)
 
 ***_ Como criar?
 
@@ -24,11 +27,6 @@
 ****_ Teams, Whatsapp, Web, Discord, Slack, Telegram
 
 ***_ Desenvolver e Hospedar 
-
-****_ https://www.wati.io/
-****_ https://digital.blip.ai/
-****_ https://www.zenvia.com/
-****_ https://www.wati.io/
 
 **[#LightGray] Insights/Cases
 
@@ -52,6 +50,7 @@ left side
 ***_ Celebridades
 ***_ FAQ em Chatbot
 ***_ Automação residencial
+***_ Onboarding
 
 **[#LightGray] Tools
 

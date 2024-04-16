@@ -25,4 +25,4 @@
 
 ## Reference
 
-> - https://www.fiap.com.br/shift/curso/tecnologia/chatbots-do-zero-ao-cognitivo-online
+- https://www.fiap.com.br/shift/curso/tecnologia/chatbots-do-zero-ao-cognitivo-online
