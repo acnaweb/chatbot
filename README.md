@@ -1,16 +1,15 @@
 # Chatbots: do zero ao generativo
 
-Instrutor: Bruno Fazoli
-- https://www.linkedin.com/in/brunofazoli/
-- https://www.fiap.com.br/shift/curso/tecnologia/chatbots-do-zero-ao-cognitivo-online
+> - Instrutor: Bruno Fazoli
+> - https://www.linkedin.com/in/brunofazoli/
 
 ## Conteúdo
 
-### Aula 1
+### Aula 1 - 15/04/24
 
 ![](assets/docs/src/aula1/aula1.png)
 
-### Aula 2
+### Aula 2 - 16/04/24
 
 ![](assets/docs/src/aula2/aula2.png)
 
@@ -26,3 +25,4 @@ Instrutor: Bruno Fazoli
 
 ## Reference
 
+> - https://www.fiap.com.br/shift/curso/tecnologia/chatbots-do-zero-ao-cognitivo-online
