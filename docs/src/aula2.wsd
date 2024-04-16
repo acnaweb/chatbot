@@ -2,10 +2,9 @@
 
 *[#F8F8FF] Aula 2
 
-**[#LightGray] Arquitetura/Fluxo de Conversa
+**[#LightGray] ChatBot sem IA
 
-***_ Sem IA
-***_ Fluxo condicional
+***_ Fluxo de conversa condicional
 ***_ Público: 
 ***_ Aplicação: FAQs, Suporte
 ***_ Landbot https://landbot.io/
@@ -13,6 +12,5 @@
 ***_ https://www.zenvia.com/
 
 left side
-
 
 @endmindmap
