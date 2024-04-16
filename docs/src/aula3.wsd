@@ -1,0 +1,70 @@
+@startmindmap
+
+*[#F8F8FF] Aula 3
+
+**[#LightGray] Chatbot (IA conversacional)
+
+***_ Como criar?
+
+****_ Requirements/Business
+****_ Behavior
+****_ Interaction
+****_ Architect + build
+****_ Training
+****_ Curate
+
+***_ Estratégia de canais
+
+****_ Onde seu público está? 
+****_ Frentes -> tecnologia, segmentação, segurança, alcance, custo
+****_ Teams, Whatsapp, Web, Discord, Slack, Telegram
+
+***_ Desenvolver e Hospedar 
+
+****_ https://www.wati.io/
+****_ https://digital.blip.ai/
+****_ https://www.zenvia.com/
+****_ https://www.wati.io/
+
+**[#LightGray] Insights/Cases
+
+***_ IA generativa
+
+**[#LightGray] Estudar
+
+***_ Design Thinking
+***_ UX
+***_ OKRs
+***_ WhatsApp API Masterclass -\nhttps://www.udemy.com/course/whatsapp-targeted-marketing/
+
+
+left side
+
+**[#LightGray] Oportunidades
+
+***_ Medicina -> Processos, Triagem
+***_ Validações -> CPF, Data
+***_ Área Fiscal
+***_ Celebridades
+***_ FAQ em Chatbot
+***_ Automação residencial
+
+
+
+**[#LightGray] Tools
+
+***_ fobi.io
+***_ DialogFlow
+***_ NodeRed
+***_ OpenAI
+
+**[#LightGray] Avatar -> 
+
+***_ Público construindo o produto
+***_ Humanização do avatar -> Engajamento
+
+**[#LightGray] Pessoas
+
+***_ Suzan Carolina Monteiro (Rei do Pitaco)
+
+@endmindmap
