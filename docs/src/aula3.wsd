@@ -1,5 +1,15 @@
 @startmindmap
 
-*[#F8F8FF] Aula 3
+*[#F8F8FF] Aula 3 - IA conversacional
+
+**[#LightGray] Arquitetura de Fluxo de Conversa
+
+***_ Chatbot com IA - NLP
+***_ Watson / DialogFlow / Raza / Alexa / AmazonLex
+
+***[#LightGray]  DialogFlow - https://cloud.google.com/dialogflow
+
+****_  S
+
 
 @endmindmap

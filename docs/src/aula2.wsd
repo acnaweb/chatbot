@@ -1,10 +1,10 @@
 @startmindmap
 
-*[#F8F8FF] Aula 2
+*[#F8F8FF] Aula 2 - Sem IA
 
-**[#LightGray] ChatBot sem IA
+**[#LightGray] Arquitetura de Fluxo de Conversa
 
-***_ Fluxo de conversa condicional
+***_ Chatbot sem IA
 ***_ Público: 
 ***_ Aplicação: FAQs, Suporte
 ***_ Usa variáveis
