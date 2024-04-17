@@ -25,7 +25,10 @@
 
 ### Estudar 
 
-- https://retool.com/
+- Casos de uso - https://retool.com/
+- https://camunda.com/
+- https://docs.infinitic.io/
+- https://orkes.io/content/developer-guides/write-workflows-using-code
 
 ## Reference
 
