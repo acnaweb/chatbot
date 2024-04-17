@@ -5,12 +5,20 @@
 **[#LightGray] ChatBot sem IA
 
 ***_ Fluxo de conversa condicional
-***_ Sem contexto
 ***_ Público: 
 ***_ Aplicação: FAQs, Suporte
-***_ Landbot https://landbot.io/
-***_ https://digital.blip.ai/
-***_ https://www.zenvia.com/
+***_ Usa variáveis
+
+*** Tools:
+****_ Landbot https://landbot.io/
+****_ https://digital.blip.ai/
+****_ https://www.zenvia.com/
+
+*** Restrições:
+****_ Sem contexto
+****_ Sem integração
+****_ Sem versionamento
+
 
 left side
 

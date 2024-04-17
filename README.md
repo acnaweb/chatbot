@@ -21,7 +21,11 @@
 
 ![](assets/docs/src/aula4/aula4.png)
 
-### Tópicos
+## Tópicos
+
+### Estudar 
+
+- https://retool.com/
 
 ## Reference
 
