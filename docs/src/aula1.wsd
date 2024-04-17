@@ -1,8 +1,8 @@
 @startmindmap
 
-*[#F8F8FF] Aula 1
+*[#F8F8FF] Chatbot
 
-**[#LightGray] Chatbot
+**[#LightGray] Tools
 
 ***_ Fluxo condicional
 ***_ https://fobi.io/
@@ -41,10 +41,6 @@ left side
 
 **[#LightGray] Estudar
 
-***_ Design Thinking
-***_ UX
-***_ OKRs
 ***_ WhatsApp API Masterclass -\nhttps://www.udemy.com/course/whatsapp-targeted-marketing/
-
 
 @endmindmap

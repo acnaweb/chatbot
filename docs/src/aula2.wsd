@@ -1,23 +1,24 @@
 @startmindmap
 
-*[#F8F8FF] Aula 2 - Sem IA
+*[#F8F8FF] Fluxo de Conversa
 
-**[#LightGray] Arquitetura de Fluxo de Conversa
-
+**[#LightGray] Features
 ***_ Chatbot sem IA
 ***_ Público: 
 ***_ Aplicação: FAQs, Suporte
 ***_ Usa variáveis
 
-*** Tools:
-****_ Landbot https://landbot.io/
-****_ https://digital.blip.ai/
-****_ https://www.zenvia.com/
+left side
 
-*** Restrições:
-****_ Sem contexto
-****_ Sem integração
-****_ Sem versionamento
+**[#LightGray] Tools:
+***_ Landbot https://landbot.io/
+***_ https://digital.blip.ai/
+***_ https://www.zenvia.com/
+
+**[#LightGray] Restrições:
+***_ Sem contexto
+***_ Sem integração
+***_ Sem versionamento
 
 
 left side
