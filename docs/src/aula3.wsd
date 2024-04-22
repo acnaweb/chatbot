@@ -1,8 +1,9 @@
 @startmindmap
 
-*[#F8F8FF] IA conversacional
+*[#F8F8FF] NLP 
 
 **[#LightGray] Features
+***_ Programação em linguagem natural
 ***_ Arquitetura de Fluxo de Conversa
 ***_ Chatbot com IA - NLP
 
@@ -16,6 +17,9 @@ left side
 ***_ AmazonLex
 
 **[#LightGray]  DialogFlow 
-***_ https://cloud.google.com/dialogflow
+***_ https://dialogflow.cloud.google.com/
+***_ Components
+****_ Agent
+****_ Intents -> um categoria/label/output
 
 @endmindmap
